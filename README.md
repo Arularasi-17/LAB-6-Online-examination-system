@@ -1,7 +1,7 @@
 # LAB-6-Online-examination-system
-NAME : ALIYA SHEEMA 
+NAME : ARULARASI U
 
-REGISTER NUMBER : 212223230011
+REGISTER NUMBER : 212223100002
 
 ### AIM :
 To develop the Exam Registration System using Star UML tools.
